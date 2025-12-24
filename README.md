@@ -41,4 +41,3 @@ struct Livro {
     char editora[30];
 };
 ```
-# bibilioteca-s
